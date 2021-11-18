@@ -1,0 +1,13 @@
+E:\4F 2021_2022\veronese daniel\contocorrente\bin\Debug\netcoreapp3.1\contocorrente.exe
+E:\4F 2021_2022\veronese daniel\contocorrente\bin\Debug\netcoreapp3.1\contocorrente.deps.json
+E:\4F 2021_2022\veronese daniel\contocorrente\bin\Debug\netcoreapp3.1\contocorrente.runtimeconfig.json
+E:\4F 2021_2022\veronese daniel\contocorrente\bin\Debug\netcoreapp3.1\contocorrente.runtimeconfig.dev.json
+E:\4F 2021_2022\veronese daniel\contocorrente\bin\Debug\netcoreapp3.1\contocorrente.dll
+E:\4F 2021_2022\veronese daniel\contocorrente\bin\Debug\netcoreapp3.1\contocorrente.pdb
+E:\4F 2021_2022\veronese daniel\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.csproj.AssemblyReference.cache
+E:\4F 2021_2022\veronese daniel\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.AssemblyInfoInputs.cache
+E:\4F 2021_2022\veronese daniel\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.AssemblyInfo.cs
+E:\4F 2021_2022\veronese daniel\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.csproj.CoreCompileInputs.cache
+E:\4F 2021_2022\veronese daniel\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.dll
+E:\4F 2021_2022\veronese daniel\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.pdb
+E:\4F 2021_2022\veronese daniel\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.genruntimeconfig.cache
