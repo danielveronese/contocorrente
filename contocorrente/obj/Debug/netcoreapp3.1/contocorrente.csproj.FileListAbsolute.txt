@@ -25,3 +25,16 @@ C:\Users\User\Desktop\contocorrente\contocorrente\obj\Debug\netcoreapp3.1\contoc
 C:\Users\User\Desktop\contocorrente\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.dll
 C:\Users\User\Desktop\contocorrente\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.pdb
 C:\Users\User\Desktop\contocorrente\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.genruntimeconfig.cache
+C:\Users\Studente\Downloads\contocorrente-main\contocorrente-main\contocorrente\bin\Debug\netcoreapp3.1\contocorrente.exe
+C:\Users\Studente\Downloads\contocorrente-main\contocorrente-main\contocorrente\bin\Debug\netcoreapp3.1\contocorrente.deps.json
+C:\Users\Studente\Downloads\contocorrente-main\contocorrente-main\contocorrente\bin\Debug\netcoreapp3.1\contocorrente.runtimeconfig.json
+C:\Users\Studente\Downloads\contocorrente-main\contocorrente-main\contocorrente\bin\Debug\netcoreapp3.1\contocorrente.runtimeconfig.dev.json
+C:\Users\Studente\Downloads\contocorrente-main\contocorrente-main\contocorrente\bin\Debug\netcoreapp3.1\contocorrente.dll
+C:\Users\Studente\Downloads\contocorrente-main\contocorrente-main\contocorrente\bin\Debug\netcoreapp3.1\contocorrente.pdb
+C:\Users\Studente\Downloads\contocorrente-main\contocorrente-main\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.csproj.AssemblyReference.cache
+C:\Users\Studente\Downloads\contocorrente-main\contocorrente-main\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.AssemblyInfoInputs.cache
+C:\Users\Studente\Downloads\contocorrente-main\contocorrente-main\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.AssemblyInfo.cs
+C:\Users\Studente\Downloads\contocorrente-main\contocorrente-main\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Downloads\contocorrente-main\contocorrente-main\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.dll
+C:\Users\Studente\Downloads\contocorrente-main\contocorrente-main\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.pdb
+C:\Users\Studente\Downloads\contocorrente-main\contocorrente-main\contocorrente\obj\Debug\netcoreapp3.1\contocorrente.genruntimeconfig.cache

@@ -4,13 +4,13 @@ namespace contocorrente
 {
     class Contocorrente
     {
-        public double saldo, prelievo;
+        public double saldo, importo;
 
         public double Versamento()
         {
             
 
-            saldo = saldo + prelievo;
+            saldo = saldo + importo;
 
             return saldo;
         }
@@ -18,7 +18,7 @@ namespace contocorrente
         {
 
 
-            saldo = saldo - prelievo;
+            saldo = saldo - importo;
 
             return saldo;
         }
@@ -75,9 +75,9 @@ namespace contocorrente
                         if (n == 1)
                         {
                             Console.WriteLine("quanti soldi vuoi prelevare?");
-                            c.prelievo = Convert.ToDouble(Console.ReadLine());
+                            c.importo = Convert.ToDouble(Console.ReadLine());
 
-                            if (c.prelievo > c.saldo)
+                            if (c.importo > c.saldo)
                             {
                                 Console.WriteLine("non hai abbastanza soldi nel conto per prelevare quella cifra prova a fare un versamento o preleva una cifra più bassa ");
                                 j--;
@@ -99,7 +99,7 @@ namespace contocorrente
                             if (n == 2)
                             {
                                 Console.WriteLine("qunti soldi vuoi depositare?");
-                                c.prelievo = Convert.ToDouble(Console.ReadLine());
+                                c.importo = Convert.ToDouble(Console.ReadLine());
                                 c.Versamento();
                                 j--;
 
@@ -117,6 +117,13 @@ namespace contocorrente
 
                                 i--;
 
+
+                            }
+                            else
+                            {
+
+                                Console.WriteLine("non ho capito la tua scelta perfavore inserisci i numeri 1-2-3");
+                                j--;
 
                             }
 
@@ -161,9 +168,9 @@ namespace contocorrente
                             if (g == 1)
                             {
                                 Console.WriteLine("quanti soldi vuoi prelevare?");
-                                cl.prelievo = Convert.ToDouble(Console.ReadLine());
+                                cl.importo = Convert.ToDouble(Console.ReadLine());
 
-                                if (cl.prelievo > cl.saldo)
+                                if (cl.importo > cl.saldo)
                                 {
                                     Console.WriteLine("non hai abbastanza soldi nel conto per prelevare quella cifra prova a fare un versamento o preleva una cifra più bassa ");
 
@@ -172,7 +179,7 @@ namespace contocorrente
                                 }
                                 else
                                 {
-                                    if (cl.prelievo >= 3000)
+                                    if (cl.importo >= 3000)
                                     {
                                         Console.WriteLine("non puoi prelevare un importo superiore ai 3000 euro");
                                         j--;
@@ -195,7 +202,7 @@ namespace contocorrente
                                 if (g == 2)
                                 {
                                     Console.WriteLine("qunti soldi vuoi depositare?");
-                                    cl.prelievo = Convert.ToDouble(Console.ReadLine());
+                                    cl.importo = Convert.ToDouble(Console.ReadLine());
                                     cl.Versamento();
                                     j--;
 
@@ -208,6 +215,13 @@ namespace contocorrente
                                     if(g == 3)
                                     {
                                         i--;
+
+                                    }
+                                    else
+                                    {
+
+                                        Console.WriteLine("non ho capito la tua scelta perfavore inserisci i numeri 1-2-3");
+                                        j--;
 
                                     }
 
